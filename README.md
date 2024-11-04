@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL here](https://your-solution-url.com)
-- Live Site URL: [Live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site URL here](https://testimonials-grid-section-fron-men007.netlify.app/)
 
 ## My process
 
@@ -67,3 +67,5 @@ Use this section to outline areas that you want to continue focusing on in futur
 - Github - [@hazhir00](https://github.com/hazhir00)
 
 ## Acknowledgments
+
+A heartfelt thank you to everyone who contributed free educational resources. Your efforts are truly respected.
